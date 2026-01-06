@@ -28,7 +28,7 @@
 
 ***
 
-## Introduction
+## Introduction....
 
 It's finally time to create our first Flask application. We'll start this
 lesson with your standard "text output in the browser" application, but we'll
